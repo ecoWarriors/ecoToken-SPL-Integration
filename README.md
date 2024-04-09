@@ -18,7 +18,8 @@ Meme tokens, known for their community-driven value and viral appeal, now have a
 
 # Key Features
 **Direct Environmental Impact:** Every meme token deposited translates into real-world action, from planting trees to protecting endangered species.
-Blockchain Transparency: Leveraging the Solana blockchain, EcoMeme ensures that every step of the process, from token deposit to environmental credit retirement, is transparent and traceable.
+
+**Blockchain Transparency:** Leveraging the Solana blockchain, EcoMeme ensures that every step of the process, from token deposit to environmental credit retirement, is transparent and traceable.
 
 **Global Reach:** Through ecoLedger's extensive network, contributions support environmental projects on multiple blockchains, amplifying the impact.
 Community Recognition: The Leaderboard and Impact Certificates celebrate the community's contributions, fostering a sense of collective achievement.
