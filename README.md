@@ -1,12 +1,12 @@
 # ecoMeme
-EcoMeme: Convert Meme Tokens for Environmental Good
+Convert Meme Tokens for Environmental Good
 
 Welcome to EcoMeme, a pioneering Solana smart contract designed to harness the playful energy of meme tokens for a profound purpose: environmental restoration and protection. By integrating with ecoLedger, a comprehensive database of environmental credits, EcoMeme creates a bridge between the vibrant world of meme tokens and impactful environmental projects across multiple blockchains.
 
 # Transform Meme Tokens into a Force for Nature
 Meme tokens, known for their community-driven value and viral appeal, now have a new utility: contributing to global environmental efforts. EcoMeme offers meme token holders a unique opportunity to convert their digital assets into positive action, directly supporting projects aimed at carbon offsetting, reforestation, wildlife protection, and more.
 
-#How It Works
+# How It Works
 
 **Deposit:** Users deposit their favorite meme tokens into the EcoMeme smart contract.
 
