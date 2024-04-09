@@ -22,7 +22,8 @@ Meme tokens, known for their community-driven value and viral appeal, now have a
 **Blockchain Transparency:** Leveraging the Solana blockchain, EcoMeme ensures that every step of the process, from token deposit to environmental credit retirement, is transparent and traceable.
 
 **Global Reach:** Through ecoLedger's extensive network, contributions support environmental projects on multiple blockchains, amplifying the impact.
-Community Recognition: The Leaderboard and Impact Certificates celebrate the community's contributions, fostering a sense of collective achievement.
+
+**Community Recognition:** The Leaderboard and Impact Certificates celebrate the community's contributions, fostering a sense of collective achievement.
 
 # Why EcoMeme?
 EcoMeme redefines the narrative around meme tokens, proving that they can be more than just digital collectibles or speculative assets. They can be powerful tools for environmental stewardship. This platform is for anyone who believes in the potential of blockchain technology to drive positive change and for meme token enthusiasts looking for meaningful ways to use their holdings.
